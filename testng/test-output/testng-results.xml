@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22096" started-at="2022-01-05T09:49:23 IST" finished-at="2022-01-05T09:49:45 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22096" started-at="2022-01-05T09:49:23 IST" finished-at="2022-01-05T09:49:45 IST">
+      <class name="JustDialPages.Main">
+        <test-method status="PASS" signature="setup()[pri:0, instance:JustDialPages.Main@b3d7190]" name="setup" is-config="true" duration-ms="6546" started-at="2022-01-05T09:49:16 IST" finished-at="2022-01-05T09:49:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="searchTextBoxAndRemoveAd()[pri:0, instance:JustDialPages.Main@b3d7190]" name="searchTextBoxAndRemoveAd" duration-ms="12608" started-at="2022-01-05T09:49:23 IST" finished-at="2022-01-05T09:49:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTextBoxAndRemoveAd -->
+        <test-method status="PASS" signature="CarServiceInfoSearching()[pri:1, instance:JustDialPages.Main@b3d7190]" name="CarServiceInfoSearching" duration-ms="2785" started-at="2022-01-05T09:49:35 IST" finished-at="2022-01-05T09:49:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarServiceInfoSearching -->
+        <test-method status="PASS" signature="ListingPage()[pri:2, instance:JustDialPages.Main@b3d7190]" name="ListingPage" duration-ms="2408" started-at="2022-01-05T09:49:38 IST" finished-at="2022-01-05T09:49:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ListingPage -->
+        <test-method status="PASS" signature="FitnessPage()[pri:3, instance:JustDialPages.Main@b3d7190]" name="FitnessPage" duration-ms="4254" started-at="2022-01-05T09:49:40 IST" finished-at="2022-01-05T09:49:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FitnessPage -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:JustDialPages.Main@b3d7190]" name="closeBrowser" is-config="true" duration-ms="1436" started-at="2022-01-05T09:49:45 IST" finished-at="2022-01-05T09:49:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- JustDialPages.Main -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
