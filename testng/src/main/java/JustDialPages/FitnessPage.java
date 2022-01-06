@@ -74,7 +74,7 @@ public class FitnessPage
 			}
 		}
 		
-		String filePath = ".\\ExcelReport\\FitnessService.xlsx";
+		String filePath = ".\\FitnessService.xlsx";
 		FileOutputStream outstream = new FileOutputStream(filePath);
 		workbook.write(outstream);
 		outstream.close();
